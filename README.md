@@ -10,7 +10,8 @@ First of all, install the requirement(s).
 * You need to have pika installed (tested with version 0.10.0)
 
 Place rabbitmq.py in your plugins folder, e.g. ~/.config/flexget/plugins/
-Configure accordingly to the documentation
+
+Configure accordingly to the documentation.
 
 ## Configuration
 
