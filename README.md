@@ -18,7 +18,7 @@ You configure it according the provided table here.
 All configuration is done in the main flexget config.
 
 | Name | Description | Default | Required |
-| ------------- | ----------- | ----------- |
+| ------------- | ----------- | ----------- | ----------- |
 | host | The host that RabbitMQ is running on | localhost | no |
 | port | RabbitMQ server port | 5672 | no |
 | username | The username for RabbitMQ | guest | no |
